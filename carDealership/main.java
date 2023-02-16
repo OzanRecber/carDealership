@@ -294,7 +294,7 @@ public class main {
 			c.info();
 			total += c.getPrice();
 		}
-		System.out.println("Totatl Amount: " + total + " $");
+		System.out.println("Total Amount: " + total + " $");
 		scan.close();
 	}
 
